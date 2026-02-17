@@ -1,7 +1,11 @@
 # robineisepoptahti.github.io
-Hi, my name is Robin. Nice to meet you!
 
-Here in my repositories you can find some school related projects, but also some I have been working on by myself.
+### Recent Projects
+
+- **[Hockey stats webscraper](https://github.com/robineisepoptahti/Hockey-stats-webscraper)**: python backend, visualized on static typescript webpage. 
+   **[Deployed on Render](https://hockey-stats-webscraper-frontend.onrender.com)**
+
+-Helsinki open university Full stack open projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robineisepoptahti)](https://github.com/anuraghazra/github-readme-stats)
 
